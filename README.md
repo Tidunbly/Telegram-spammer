@@ -4,8 +4,8 @@ Pyrogram/Aiogram script that will send toyr messenges in all your groups and cha
 
 Packages that you need to install.
 
-pip install pyrogram
-pip install aiogram
+pip install pyrogram,
+pip install aiogram,
 pip install asyncio
 
 

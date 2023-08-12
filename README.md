@@ -3,9 +3,11 @@ Pyrogram/Aiogram script that will send toyr messenges in all your groups and cha
 
 
 Packages that you need to install.
+
 pip install pyrogram
 pip install aiogram
 pip install asyncio
+
 
 Also you have to create your own app here https://my.telegram.org/auth?to=apps.
 

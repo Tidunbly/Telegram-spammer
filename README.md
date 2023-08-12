@@ -9,4 +9,4 @@ pip install asyncio
 
 Also you have to create your own app here https://my.telegram.org/auth?to=apps.
 
-All other instructions in script.
+All other instructions in script >>>>>>>>>>>  @Tidunbly
